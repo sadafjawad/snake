@@ -1,2 +1,2 @@
 # snake 🐍
-snake game developed java using javafx
+snake game developed in java using javafx
