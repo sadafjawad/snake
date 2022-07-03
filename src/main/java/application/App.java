@@ -201,7 +201,7 @@ public class App extends Application {
 
     public static void newFood(){
         start: while (true){
-            foodX=random.nextInt(width);
+            foodX=random.nextInt(width); 
             foodY=random.nextInt(height); 
 
             for (Point c: snake){
