@@ -209,7 +209,7 @@ public class App extends Application {
                     continue start;
                 }
             }
-            snakeColor = random.nextInt(5);
+            snakeColor = random.nextInt(5); 
             speed++;
             break;
         }
